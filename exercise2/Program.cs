@@ -1,5 +1,5 @@
 ﻿ int a, b, c, max;
-  Console.WriteLine("Введите два числа : ");
+  Console.WriteLine("Введите три числа : ");
  
  a = Convert.ToInt32(Console.ReadLine());
  b = Convert.ToInt32(Console.ReadLine());
